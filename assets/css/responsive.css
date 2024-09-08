@@ -1,0 +1,30 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .container{
+        width: 970px;
+    }
+    .menu {
+        width: 790px;
+    }
+    .about-img {
+        width: 290px;
+    }
+    .about-content {
+        width: 650px;
+    }
+    .single-feature {
+        width: 325px;
+    }
+    .single-service, .single-team {
+        width: 303px;
+    }
+    .single-project {
+        width: 323px;
+    }
+    .single-statistics {
+        width: 242px;
+    }
+    .single-price {
+        width: 313px;
+        margin-right: 15px;
+    }
+}
